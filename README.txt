@@ -1,3 +1,5 @@
+SVT v1.5
+
 This is the Ground Textures Mod for Stock Visual Enhancements.
 
 To install:
