@@ -1,13 +1,13 @@
-SVT v2.0
+# SVT v2.0.3
 
-This is the Ground Textures Mod for Stock Visual Enhancements.
+**This is the Ground Textures Mod for Stock Visual Enhancements.**
 
 To install:
 
-1.Install Kopernicus https://github.com/Kopernicus/Kopernicus/releases/latest
+**1.**Install Kopernicus https://github.com/Kopernicus/Kopernicus/releases/latest
 and drop into GameData.
 
-2.Drop SVEKopernicus into GameData folder.
+**2.**Drop SVEKopernicus into GameData folder.
 
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
