@@ -1,4 +1,4 @@
-# SVT v2.0.4
+# SVT v2.0.5
 
 **This is the Ground Textures Mod for Stock Visual Enhancements.**
 
@@ -8,6 +8,8 @@
 and drop into GameData.
 
 **2.**Drop the SVT folder into GameData folder.
+
+**If you don't want rocks, trees, cactus' and other scatter objects to be solid, delete the "EnableColliders" cfg from the SVT folder.**
 
 
 This mods is licensed by Creative Commons Attribution-NonCommercial-NoDerivs 
