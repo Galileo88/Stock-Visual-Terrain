@@ -1,4 +1,4 @@
-# SVT v2.0.6
+# SVT v2.0.7
 
 **This is the Ground Textures Mod for Stock Visual Enhancements.**
 
